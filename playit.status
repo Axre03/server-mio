@@ -1,0 +1,490 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507596891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507599952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507615062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507618133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507633228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507636302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507645387 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507648456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507651527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507654600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507669710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507672767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507687860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507690920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507706020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507709078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507724184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507727242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507742346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507745407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507760573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507763638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507778734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507781794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507784862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507799964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507803042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507818146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507833237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507836302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507851398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507866498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507869569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507872629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507887750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507890811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507905912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507908974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507924066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507939166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507942240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507957334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507960398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507975495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507978573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507981639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723507996739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723507999806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508014915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723508017973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508033073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508048174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723508051246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508066343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723508069417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508084503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508099619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723508102688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508117795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723508120857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508135980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723508139050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508154188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723508169305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+contents-drums.gl.at.ply.gg:4100 => 127.0.0.1:4100 (minecraft-bedrock)
+sellers-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
